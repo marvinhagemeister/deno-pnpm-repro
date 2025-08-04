@@ -1,0 +1,6 @@
+{
+  "name": "foo",
+  "dependencies": {
+    "preact": "^10.27.0"
+  }
+}

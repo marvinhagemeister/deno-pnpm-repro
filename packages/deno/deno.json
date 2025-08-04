@@ -1,0 +1,6 @@
+{
+  "name": "@marvinh-test/kl",
+  "imports": {
+    "kolorist": "npm:kolorist@*"
+  }
+}
